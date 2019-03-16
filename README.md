@@ -28,9 +28,9 @@ You have the ability to write HTML, CSS, and responsive media queries. You also 
 
 ### Follow these steps for completing your project after your MVP is completed:
 
-- [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into master (student's Repo). **Please don't merge your own pull request**
-- [ ] Add your Project Manager as a Reviewer on the Pull-request
-- [ ] PM then will count the HW as done by merging the branch back into master.
+- [x] Submit a Pull-Request to merge `<firstName-lastName>` Branch into master (student's Repo). **Please don't merge your own pull request**
+- [x] Add your Project Manager as a Reviewer on the Pull-request
+- [x] PM then will count the HW as done by merging the branch back into master.
 
 ## MVP Requirements
 
